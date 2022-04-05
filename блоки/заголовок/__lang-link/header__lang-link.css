@@ -1,0 +1,26 @@
+.header__lang-link {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    margin-right: 18px;
+}
+
+.header__lang-link:hover {
+<<<<<<< HEAD:blocks/header/__lang-link/header__lang-link.css
+    opacity: .8;
+=======
+  opacity: .8;
+>>>>>>> 9f8cc8b5e9cc74dd92de078b30bee47b85a7d821:блоки/заголовок/__lang-link/header__lang-link.css
+}
+
+.header__lang-link:last-child {
+    margin-right: 0;
+  }
+
+@media screen and (max-width: 1023.98px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
