@@ -7,6 +7,10 @@
     color: #FFFFFF;
 }
 
+.footer__link:hover {
+    opacity: .8;
+}
+
 .footer__link:first-of-type {
     margin: 0;
 }
