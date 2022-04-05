@@ -1,0 +1,25 @@
+.place__pagargaph {
+    margin: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.34px;
+    padding-top: 26px;
+}
+
+.place__pagargaph:first-of-type {
+    padding-top: 0;
+}
+
+@media screen and (max-width: 1023.98px) {
+    .place__pagargaph {
+        font-size: 16px;
+        line-height: 26.08px;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .place__pagargaph {
+        padding: 0 16px;
+    }
+}
