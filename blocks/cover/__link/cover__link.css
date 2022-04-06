@@ -1,11 +1,4 @@
-.cover__link::after {
-    content: ' ';
-    position: absolute;
-    display: block;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    cursor: pointer;
-    z-index: 5;
+ .cover__link {   
+    text-decoration: none;
+    color: inherit;
 }
